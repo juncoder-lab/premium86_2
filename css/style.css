@@ -1,0 +1,12 @@
+.carousel-inner {
+    max-height: 88vh;
+}
+.carousel-caption {
+    bottom: 50%;
+}
+.slider_title {
+    font-size: 4rem;
+}
+.slider_text {
+    font-size: 2rem;
+}
